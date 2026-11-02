@@ -1,0 +1,7 @@
+   __pycache__/
+   *.pyc
+   .pytest_cache/
+   .venv/
+   .DS_Store
+   data/pos_data.json
+   data/*.tmp
